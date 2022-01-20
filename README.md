@@ -16,7 +16,7 @@ The script rnartist.kts defines the layout and the colors for the consensus stru
 
 ## How to use these data?
 
-You hve to modify the script rnartist.kts to fit your needs. You can change the colors, the theme, choose to export the result in an SVG or PNG file (see the [RNArtistCore language documentation](https://github.com/fjossinet/RNArtistCore) for details). Then you need to run this script with a tool that can understand the RNArtistCore language.
+You have to modify the script rnartist.kts to fit your needs. You can change the colors, the theme, choose to export the result in an SVG or PNG file (see the [RNArtistCore language documentation](https://github.com/fjossinet/RNArtistCore) for details). Then you need to run this script with a tool that can understand the RNArtistCore language.
 
 ### With the graphical tool [RNArtist](https://github.com/fjossinet/RNArtist)
 
@@ -32,7 +32,7 @@ You could also browse and preview all the families interactively from within RNA
 
 ### With the library [RNArtistCore](https://github.com/fjossinet/RNArtistCore)
 
-This library is one of the components making RNArtist. It provides the drawing engine to plot an RNA secondary structure. RNArtistCore can also be used standalone, from the commandline. Wihtout the advantages of the script editor in RNArtist, you will need to use a text editor to modify your script.
+This library is one of the components making RNArtist. It provides the drawing engine to plot an RNA secondary structure. RNArtistCore can also be used standalone, from the commandline. Without the advantages of the script editor in RNArtist, you will need to use a text editor to modify your script.
 Then you will need to type the following command to run it:
 
  ```
